@@ -1,3 +1,3 @@
 # madbirds
 
-This is a replica of angry birds developed in Unity
+This is a replica of Angry Birds developed in Unity
